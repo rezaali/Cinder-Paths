@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="Paths"
+	id="com.syedrezaali.Paths"
+	git="https://github.com/rezaali/Cinder-Paths.git"
+	url="https://github.com/rezaali/Cinder-Paths"
+	author="Reza Ali syed.reza.ali@gmail.com"
+	summary="Paths helps create organized app asset paths & helps to load assets from these paths"
+	license="MIT"
+	>
+	<headerPattern>src/*.h</headerPattern>
+	<sourcePattern>src/*.cpp</sourcePattern>
+</block>
+</cinder>
